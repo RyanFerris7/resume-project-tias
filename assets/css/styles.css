@@ -47,13 +47,13 @@ h1,h2,h3,h4 {
 }
 
 /*  Heading  */ 
+
 header {
     margin:0;
 }
 
 .heading {
     margin-left: 50px;
-
 }
 
 .logo {
@@ -90,6 +90,7 @@ header {
 
 .menucontainer {
     font-size: 0;
+    flex-grow: 1;
 }
 
 #nav {
